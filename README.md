@@ -1,13 +1,13 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Ratnadeep Bhowmik</h1>
-<h3 align="center">A passionate web & app developer and an aviation enthusiast.</h3>
+<h3 align="center">web developer.</h3>
 <img align="right" width="400" src="https://i.gifer.com/4I9G.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratna2&label=Profile%20views&color=0e75b6&style=flat" alt="ratna2" /> </p>
 
 - 🔭 **Freelancer**
 
-- 🌱 I’m currently learning **React, mongodb, express, node js**
+- 🌱 **React, mongodb, express, node js**
 
 - 💬 Ask me about **aviation, web dev, app dev, aeromodeling**
 
